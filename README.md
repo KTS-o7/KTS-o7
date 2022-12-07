@@ -5,6 +5,7 @@
 - 📫 You can reach me on 
    1) LinkdIn - https://www.linkedin.com/in/krishna-tejaswi-s-8a78b3228
    2) Email   - thegreat24303@gmail.com
+   3) Discord - kts_24_johnrambo#9491
       
 
 <!---
