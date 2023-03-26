@@ -1,4 +1,4 @@
-- ##👋 Hi, I’m @KTS-o7##
+- ## 👋 Hi, I’m @KTS-o7
 - 👀 I’m interested in Statistics, Mathematics and Programming in general.
 - 🌱 I’m currently learning Web development, Machine Learning and Data Visualization. 
 - 💞️ I’m looking to collaborate on any projects which help me to learn !
