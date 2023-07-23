@@ -15,7 +15,7 @@
 
  
 
-![KTS's 's GitHub stats](https://github-readme-stats.vercel.app/api?username=KTS-o7&show_icons=true&theme=dark)
+![KTS's 's GitHub stats](https://github-readme-stats.vercel.app/api?username=KTS-o7&show_icons=true&theme=github_dark)
 
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
