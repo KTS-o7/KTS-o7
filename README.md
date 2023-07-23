@@ -2,9 +2,6 @@
 - 👀 I’m interested in Statistics, Mathematics and Programming in general.
 - 🌱 I’m currently learning Web development, Machine Learning and Data Visualization. 
 - 💞️ I’m looking to collaborate on any projects which help me to learn !
-- 📫 You can reach me on 
-   1) LinkdIn - www.linkedin.com/in/krishnatejaswi-shenthar
-   2) Email   - krishna.tejaswi@shenthar.com
    
  
 
