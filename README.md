@@ -25,7 +25,7 @@
 <a href="https://www.linkedin.com/in/krishnatejaswi-shenthar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@Krishnatejaswi Shenthar-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:krishna.tejaswi@shenthar.com"><img alt="Email" src="https://img.shields.io/badge/Email-krishna.tejaswi@shenthar.com-blue?style=flat&logo=gmail"></a>
 </p>
-
+[![](https://visitcount.itsvg.in/api?id=KTS-o7&icon=0&color=0)](https://visitcount.itsvg.in)
 <!---
 KTS-o7/KTS-o7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
