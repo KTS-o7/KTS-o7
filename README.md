@@ -9,9 +9,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KTS-o7&rank_icon=github&theme=github_dark" alt="KTS's GitHub stats"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KTS-o7&hide_progress=true&theme=github_dark" alt="Top languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KTS-o7&theme=dark&hide_border=false" alt="Top languages"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KTS-o7&hide_progress=true&theme=github_dark" alt="Top languages"><br>
 </p>
-
+ 
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/krishnatejaswi-shenthar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"></a>
