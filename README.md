@@ -19,9 +19,10 @@ I have experience with a variety of technologies and programming languages. Here
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KTS-o7&rank_icon=github&theme=github_dark" alt="KTS's GitHub stats"><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KTS-o7&theme=dark&hide_border=false" alt="Top languages"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KTS-o7&hide_progress=true&theme=github_dark" alt="Top languages"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=KTS-o7&rank_icon=github&theme=github_dark" alt="KTS's GitHub stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KTS-o7&theme=github_dark&hide_border=false" alt="Top languages"><br>
+
+  
 </p>
 
 ## 🤝🏻 Connect with Me
@@ -37,7 +38,11 @@ Feel free to reach out to me on LinkedIn or via email:
 
 Thank you for visiting my profile!
 
-[![](https://visitcount.itsvg.in/api?id=KTS-o7&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=KTS-o7&icon=0&color=0)](https://visitcount.itsvg.in)<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KTS-o7&theme=github_dark" alt="Stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KTS-o7&hide_progress=true&theme=github_dark" alt="Top languages"><br>
 
 ---
 
