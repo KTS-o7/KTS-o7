@@ -21,8 +21,8 @@ I have experience with a variety of technologies and programming languages. Here
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KTS-o7&rank_icon=github&theme=github_dark" alt="KTS's GitHub stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KTS-o7&theme=github_dark&hide_border=false" alt="Top languages"><br>
+  <img src="https://leetcard.jacoblin.cool/KTS-o7?theme=dark&cache=0" alt="leetcodeStats"><br>
   
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/KTS-o7?theme=dark&cache=0)
 
   
 </p>
