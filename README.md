@@ -7,7 +7,6 @@
 ## 🌐 Socials:
 
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/krishnatejaswi-shenthar/)
-
 [![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:krishna.tejaswi@shenthar.com)
 
 
