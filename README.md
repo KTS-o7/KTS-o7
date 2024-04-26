@@ -26,9 +26,9 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 
-### 😂 Meme for the day !
+### GitRoll  !
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<a href="https://gitroll.io/profile/uAMeVZ9sfbvMm3UFLanLJ9sLHTuS2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uAMeVZ9sfbvMm3UFLanLJ9sLHTuS2" alt="GitRoll Profile Badge"/></a>
 
 ---
 
