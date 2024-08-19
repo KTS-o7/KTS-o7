@@ -27,4 +27,8 @@ Hi 👋, I'm KTS<br>🌱 I’m currently learning System Design, DSA and general
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Academic Background](https://kts-o7.github.io/blog/about/about/)
+- [Series](https://kts-o7.github.io/blog/posts/)
+- [Problem Statement](https://kts-o7.github.io/blog/posts/daily_lc/problem-650-2-keys-keyboard/)
+- [Series](https://kts-o7.github.io/blog/tags/math/)
 <!-- BLOG-POST-LIST:END -->
