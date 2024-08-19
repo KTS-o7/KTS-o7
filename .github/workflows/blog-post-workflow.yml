@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://cdn.mysitemapgenerator.com/shareapi/rss/2008795923"
+          feed_list: "https://politepol.com/fd/o2EMINCgOmRI.xml"
