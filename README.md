@@ -27,8 +27,8 @@ Hi 👋, I'm KTS<br>🌱 I’m currently learning System Design, DSA and general
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Academic Background](https://kts-o7.github.io/blog/about/about/)
-- [Series](https://kts-o7.github.io/blog/posts/)
-- [Problem Statement](https://kts-o7.github.io/blog/posts/daily_lc/problem-650-2-keys-keyboard/)
-- [Series](https://kts-o7.github.io/blog/tags/math/)
+- [Problem 650 2 Keys Keyboard](https://kts-o7.github.io/blog/posts/daily_lc/problem-650-2-keys-keyboard/)
+- [Problem 3259 Maximum Energy Boost From Two Drinks](https://kts-o7.github.io/blog/posts/contest_lc/problem-3259-maximum-energy-boost-from-two-drinks/)
+- [Problem 3258 Count Substrings That Satisfy K Constraint I](https://kts-o7.github.io/blog/posts/contest_lc/problem-3258-count-substrings-that-satisfy-k-constraint-i/)
+- [Problem 54 Sprial Matrix](https://kts-o7.github.io/blog/posts/extraques/problem-54-sprial-matrix/)
 <!-- BLOG-POST-LIST:END -->
