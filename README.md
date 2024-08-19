@@ -24,5 +24,7 @@ Hi 👋, I'm KTS<br>🌱 I’m currently learning System Design, DSA and general
 ---
 [![](https://visitcount.itsvg.in/api?id=KTS-o7&icon=6&color=2)](https://visitcount.itsvg.in)
 
+# Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
