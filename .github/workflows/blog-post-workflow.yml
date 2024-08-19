@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://morss.it/:items=%7c%7c*[class=text-4xl]%7c%7ca/https://kts-o7.github.io/blog/"
+          feed_list: "https://cdn.mysitemapgenerator.com/shareapi/rss/2008795923"
