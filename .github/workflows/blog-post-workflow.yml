@@ -1,14 +1,17 @@
 name: Latest blog post workflow
-on: 
-    schedule:
-        - cron: '0 * * * *'
-jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
-        runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "4"
-                feed_list: "https://morss.it/:items=%7c%7c*[class=text-4xl]%7c%7ca/https://kts-o7.github.io/blog/"
+on:
+  push:
+    branches:
+      - main # or master, depending on your default branch name
+  schedule:
+    - cron: "0 * * * *"
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "4"
+          feed_list: "https://morss.it/:items=%7c%7c*[class=text-4xl]%7c%7ca/https://kts-o7.github.io/blog/"
