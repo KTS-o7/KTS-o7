@@ -27,8 +27,8 @@ Hi 👋, I'm KTS<br>🌱 I’m currently learning System Design, DSA and general
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem 264 Ugly Number II](https://kts-o7.github.io/blog/posts/daily_lc/problem-264-ugly-number-ii/)
 - [Problem 592 Fraction Addition and Subtraction](https://kts-o7.github.io/blog/posts/daily_lc/problem-592-fraction-addition-and-subtraction/)
 - [Problem 476 Number Complement](https://kts-o7.github.io/blog/posts/daily_lc/problem-476-number-complement/)
 - [Problem 3238 Find the Number of Winning Players](https://kts-o7.github.io/blog/posts/extraques/problem-3238-find-the-number-of-winning-players/)
-- [Process vs Threads](https://kts-o7.github.io/blog/posts/core_points/process-vs-threads/)
 <!-- BLOG-POST-LIST:END -->
