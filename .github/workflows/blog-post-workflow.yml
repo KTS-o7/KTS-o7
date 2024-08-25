@@ -11,9 +11,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Set timestamp
+        id: set_timestamp
+        run: echo "TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_ENV
+
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
           feed_list: "https://politepol.com/fd/ojjQW3Cg1aKJ.xml"
-          commit_message: "Updated latest blog posts on $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          commit_message: "Updated latest blog posts on ${{ env.TIMESTAMP }}"
 
