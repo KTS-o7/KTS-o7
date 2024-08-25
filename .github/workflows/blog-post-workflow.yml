@@ -2,9 +2,9 @@ name: Latest blog post workflow
 on:
   push:
     branches:
-      - main # or master, depending on your default branch name
+      - main
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"  # Run every 12 hours
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -15,3 +15,5 @@ jobs:
         with:
           max_post_count: "4"
           feed_list: "https://politepol.com/fd/ojjQW3Cg1aKJ.xml"
+          commit_message: "Updated latest blog posts on $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+
