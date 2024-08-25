@@ -27,5 +27,8 @@ Hi 👋, I'm KTS<br>🌱 I’m currently learning System Design, DSA and general
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Problem 3265 Count Almost Equal Pairs I](https://kts-o7.github.io/blog/posts/contest_lc/problem-3265-count-almost-equal-pairs-i/)
+- [Problem 3264 Final Array State After K Multiplication Operations I](https://kts-o7.github.io/blog/posts/contest_lc/problem-3264-final-array-state-after-k-multiplication-operations-i/)
+- [Problem 264 Ugly Number II](https://kts-o7.github.io/blog/posts/daily_lc/problem-264-ugly-number-ii/)
+- [Problem 592 Fraction Addition and Subtraction](https://kts-o7.github.io/blog/posts/daily_lc/problem-592-fraction-addition-and-subtraction/)
 <!-- BLOG-POST-LIST:END -->
