@@ -18,6 +18,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "5"
-          feed_list: "https://kts-o7.github.io/blog/posts/index.xml"
+          feed_list: "https://kts-o7.github.io/blog/posts/index.xml,https://kts-o7.github.io/blog/core-subjects/index.xml,https://kts-o7.github.io/blog/leetcode-potd/index.xml"
           commit_message: "Updated latest blog posts on ${{ env.TIMESTAMP }}"
 
