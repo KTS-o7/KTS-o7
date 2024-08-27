@@ -27,9 +27,9 @@ Hi 👋, I'm KTS<br>🌱 I’m currently learning System Design, DSA and general
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem 1514 Path With Maximum Probability](https://KTS-o7.github.io/blog/leetcode-potd/problem-1514-path-with-maximum-probability/)
 - [Problem 145 Binary Tree Postorder Traversal](https://KTS-o7.github.io/blog/posts/extraques/problem-145-binary-tree-postorder-traversal/)
 - [Problem 590 N Ary Tree Postorder Traversal](https://KTS-o7.github.io/blog/leetcode-potd/problem-590-n-ary-tree-postorder-traversal/)
 - [Problem 3265 Count Almost Equal Pairs I](https://KTS-o7.github.io/blog/posts/leetcode-contest/problem-3265-count-almost-equal-pairs-i/)
 - [Problem 3264 Final Array State After K Multiplication Operations I](https://KTS-o7.github.io/blog/posts/leetcode-contest/problem-3264-final-array-state-after-k-multiplication-operations-i/)
-- [Problem 264 Ugly Number II](https://KTS-o7.github.io/blog/leetcode-potd/problem-264-ugly-number-ii/)
 <!-- BLOG-POST-LIST:END -->
