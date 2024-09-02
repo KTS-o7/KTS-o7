@@ -27,9 +27,9 @@ Hi 👋, I'm KTS<br>🌱 I’m currently learning System Design, DSA and general
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem 2022 Convert 1D Array to 2D Array](https://KTS-o7.github.io/blog/leetcode-potd/problem-2022-convert-1d-array-to-2d-array/)
+- [Problem 3275 K Th Nearest Obstacle Queries](https://KTS-o7.github.io/blog/posts/leetcode-contest/problem-3275-k-th-nearest-obstacle-queries/)
+- [Problem 3274 Check if Two Chessboard Squares Have the Same Color](https://KTS-o7.github.io/blog/posts/leetcode-contest/problem-3274-check-if-two-chessboard-squares-have-the-same-color/)
 - [Problem 3273 Minimum Amount of Damage Dealt to Bob](https://KTS-o7.github.io/blog/posts/leetcode-contest/problem-3273-minimum-amount-of-damage-dealt-to-bob/)
 - [Problem 3271 Hash Divided Strings](https://KTS-o7.github.io/blog/posts/leetcode-contest/problem-3271-hash-divided-strings/)
-- [Problem 3270 Find the Key of Numbers](https://KTS-o7.github.io/blog/posts/leetcode-contest/problem-3270-find-the-key-of-numbers/)
-- [Problem 108 Convert Sorted Array to Binary Search Tree](https://KTS-o7.github.io/blog/posts/extraques/problem-108-convert-sorted-array-to-binary-search-tree/)
-- [Problem 947 Most Stones Removed With Same Row or Column](https://KTS-o7.github.io/blog/leetcode-potd/problem-947-most-stones-removed-with-same-row-or-column/)
 <!-- BLOG-POST-LIST:END -->
