@@ -27,9 +27,9 @@ Hi 👋, I'm KTS<br>🌱 I’m currently learning System Design, DSA and general
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem 725 Split Linked List in Parts](https://KTS-o7.github.io/blog/leetcode-potd/problem-725-split-linked-list-in-parts/)
 - [Problem 1367 Linked List in Binary Tree](https://KTS-o7.github.io/blog/leetcode-potd/problem-1367-linked-list-in-binary-tree/)
 - [Problem 2028 Find Missing Observations](https://KTS-o7.github.io/blog/leetcode-potd/problem-2028-find-missing-observations/)
 - [Problem 1945 Sum of Digits of String After Convert](https://KTS-o7.github.io/blog/leetcode-potd/problem-1945-sum-of-digits-of-string-after-convert/)
 - [Problem 1894 Find the Student That Will Replace the Chalk](https://KTS-o7.github.io/blog/leetcode-potd/problem-1894-find-the-student-that-will-replace-the-chalk/)
-- [Problem 2022 Convert 1D Array to 2D Array](https://KTS-o7.github.io/blog/leetcode-potd/problem-2022-convert-1d-array-to-2d-array/)
 <!-- BLOG-POST-LIST:END -->
