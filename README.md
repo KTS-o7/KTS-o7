@@ -27,9 +27,9 @@ Hi 👋, I'm KTS<br>🌱 I’m currently learning System Design, DSA and general
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem 1684 Count the Number of Consistent Strings](https://KTS-o7.github.io/blog/leetcode-potd/problem-1684-count-the-number-of-consistent-strings/)
 - [Problem 2220 Minimum Bit Flips to Convert Number](https://KTS-o7.github.io/blog/leetcode-potd/problem-2220-minimum-bit-flips-to-convert-number/)
 - [Problem 2807 Insert Greatest Common Divisors in Linked List](https://KTS-o7.github.io/blog/leetcode-potd/problem-2807-insert-greatest-common-divisors-in-linked-list/)
 - [Problem 2326 Spiral Matrix IV](https://KTS-o7.github.io/blog/leetcode-potd/problem-2326-spiral-matrix-iv/)
 - [Problem 725 Split Linked List in Parts](https://KTS-o7.github.io/blog/leetcode-potd/problem-725-split-linked-list-in-parts/)
-- [Problem 1367 Linked List in Binary Tree](https://KTS-o7.github.io/blog/leetcode-potd/problem-1367-linked-list-in-binary-tree/)
 <!-- BLOG-POST-LIST:END -->
