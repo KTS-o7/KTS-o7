@@ -15,6 +15,9 @@ Hi 👋, I'm KTS<br>🌱 I’m currently learning System Design, DSA and general
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KTS-o7&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
+## 🏆 Leetcode
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=KTS-o7" alt="LeetCode Badges"/>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
