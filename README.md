@@ -30,9 +30,9 @@ Hi 👋, I'm KTS<br>🌱 I’m currently learning System Design, DSA and general
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem 3285 Find Indices of Stable Mountains](https://KTS-o7.github.io/blog/posts/leetcode-contest/problem-3285-find-indices-of-stable-mountains/)
 - [Problem 2544 Alternating Digit Sum](https://KTS-o7.github.io/blog/posts/extraques/problem-2544-alternating-digit-sum/)
 - [Problem 2419 Longest Subarray With Maximum Bitwise AND](https://KTS-o7.github.io/blog/leetcode-potd/problem-2419-longest-subarray-with-maximum-bitwise-and/)
 - [Problem 1310 XOR Queries of a Subarray](https://KTS-o7.github.io/blog/leetcode-potd/problem-1310-xor-queries-of-a-subarray/)
 - [Problem 1684 Count the Number of Consistent Strings](https://KTS-o7.github.io/blog/leetcode-potd/problem-1684-count-the-number-of-consistent-strings/)
-- [Problem 2220 Minimum Bit Flips to Convert Number](https://KTS-o7.github.io/blog/leetcode-potd/problem-2220-minimum-bit-flips-to-convert-number/)
 <!-- BLOG-POST-LIST:END -->
