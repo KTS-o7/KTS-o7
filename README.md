@@ -30,9 +30,9 @@ Hi 👋, I'm KTS<br>🌱 I’m currently learning System Design, DSA and general
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem 1460 Make Two Arrays Equal by Reversing Subarrays](https://KTS-o7.github.io/blog/leetcode-potd/problem-1460-make-two-arrays-equal-by-reversing-subarrays/)
 - [Problem 884 Uncommon Words From Two Sentences](https://KTS-o7.github.io/blog/leetcode-potd/problem-884-uncommon-words-from-two-sentences/)
 - [Problem 3290 Maximum Multiplication Score](https://KTS-o7.github.io/blog/posts/leetcode-contest/problem-3290-maximum-multiplication-score/)
 - [Problem 3289 the Two Sneaky Numbers of Digitville](https://KTS-o7.github.io/blog/posts/leetcode-contest/problem-3289-the-two-sneaky-numbers-of-digitville/)
 - [Problem 3286 Find a Safe Walk Through a Grid](https://KTS-o7.github.io/blog/posts/leetcode-contest/problem-3286-find-a-safe-walk-through-a-grid/)
-- [Problem 3285 Find Indices of Stable Mountains](https://KTS-o7.github.io/blog/posts/leetcode-contest/problem-3285-find-indices-of-stable-mountains/)
 <!-- BLOG-POST-LIST:END -->
