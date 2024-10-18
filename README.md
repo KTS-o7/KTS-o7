@@ -12,6 +12,9 @@ Hi 👋, I'm KTS<br>🌱 I’m currently learning System Design, DSA and general
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KTS-o7&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KTS-o7&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html&hide_title=true)
 
+## 🏆 Hacktoberfest
+[![An image of @ktso7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ktso7)](https://holopin.io/@ktso7)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KTS-o7&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
