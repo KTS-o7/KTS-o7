@@ -33,9 +33,9 @@ Hi 👋, I'm KTS<br>🌱 I’m currently learning System Design, DSA and general
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem 1381 Design a Stack With Increment Operation](https://KTS-o7.github.io/blog/leetcode-potd/problem-1381-design-a-stack-with-increment-operation/)
 - [Problem 432 All O one Data Structure](https://KTS-o7.github.io/blog/leetcode-potd/problem-432-all-oone-data-structure/)
 - [Problem 951 Flip Equivalent Binary Trees](https://KTS-o7.github.io/blog/leetcode-potd/problem-951-flip-equivalent-binary-trees/)
 - [Problem 1405 Longest Happy String](https://KTS-o7.github.io/blog/leetcode-potd/problem-1405-longest-happy-string/)
 - [Problem 2583 Kth Largest Sum in a Binary Tree](https://KTS-o7.github.io/blog/leetcode-potd/problem-2583-kth-largest-sum-in-a-binary-tree/)
-- [Problem 1593 Split a String Into Max Number of Unique Substrings](https://KTS-o7.github.io/blog/leetcode-potd/problem-1593-split-a-string-into-max-number-of-unique-substrings/)
 <!-- BLOG-POST-LIST:END -->
