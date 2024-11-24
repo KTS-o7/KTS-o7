@@ -33,9 +33,9 @@ Hi 👋, I'm KTS<br>🌱 I’m currently learning System Design, DSA and general
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem 1861 Rotating the Box](https://KTS-o7.github.io/blog/leetcode-potd/problem-1861-rotating-the-box/)
 - [Problem 796 Rotate String](https://KTS-o7.github.io/blog/leetcode-potd/problem-796-rotate-string/)
 - [Problem 2490 Circular Sentence](https://KTS-o7.github.io/blog/leetcode-potd/problem-2490-circular-sentence/)
 - [Problem 2501 Longest Square Streak in an Array](https://KTS-o7.github.io/blog/leetcode-potd/problem-2501-longest-square-streak-in-an-array/)
 - [Problem 1381 Design a Stack With Increment Operation](https://KTS-o7.github.io/blog/leetcode-potd/problem-1381-design-a-stack-with-increment-operation/)
-- [Problem 432 All O one Data Structure](https://KTS-o7.github.io/blog/leetcode-potd/problem-432-all-oone-data-structure/)
 <!-- BLOG-POST-LIST:END -->
