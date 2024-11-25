@@ -33,9 +33,9 @@ Hi 👋, I'm KTS<br>🌱 I’m currently learning System Design, DSA and general
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Problem 1861 Rotating the Box](https://KTS-o7.github.io/blog/leetcode-potd/problem-1861-rotating-the-box/)
-- [Problem 796 Rotate String](https://KTS-o7.github.io/blog/leetcode-potd/problem-796-rotate-string/)
-- [Problem 2490 Circular Sentence](https://KTS-o7.github.io/blog/leetcode-potd/problem-2490-circular-sentence/)
-- [Problem 2501 Longest Square Streak in an Array](https://KTS-o7.github.io/blog/leetcode-potd/problem-2501-longest-square-streak-in-an-array/)
-- [Problem 1381 Design a Stack With Increment Operation](https://KTS-o7.github.io/blog/leetcode-potd/problem-1381-design-a-stack-with-increment-operation/)
+- [Problem 773 Sliding Puzzle](https://KTS-o7.github.io/blog/leetcode-potd/problem-773-sliding-puzzle/)
+- [Problem 3254 Find the Power of K-Size Subarrays I](https://KTS-o7.github.io/blog/leetcode-potd/problem-3254-find-the-power-of-k-size-subarrays-i/)
+- [Problem 2461 Maximum Sum of Distinct Subarrays With Length K](https://KTS-o7.github.io/blog/leetcode-potd/problem-2461-maximum-sum-of-distinct-subarrays-with-length-k/)
+- [Problem 1574 Shortest Subarray to be Removed to Make Array Sorted](https://KTS-o7.github.io/blog/leetcode-potd/problem-1574-shortest-subarray-to-be-removed-to-make-array-sorted/)
+- [Problem 1652 Defuse the Bomb](https://KTS-o7.github.io/blog/leetcode-potd/problem-1652-defuse-the-bomb/)
 <!-- BLOG-POST-LIST:END -->
