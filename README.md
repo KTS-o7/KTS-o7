@@ -33,9 +33,9 @@ Hi 👋, I'm KTS<br>🌱 I’m currently learning System Design, DSA and general
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem 1277 Count Square Submatrices with All Ones](https://KTS-o7.github.io/blog/leetcode-potd/problem-1277-count-square-submatrices-with-all-ones/)
+- [Problem 2924 Find Champion II](https://KTS-o7.github.io/blog/leetcode-potd/problem-2924-find-champion-ii/)
 - [Problem 773 Sliding Puzzle](https://KTS-o7.github.io/blog/leetcode-potd/problem-773-sliding-puzzle/)
 - [Problem 3254 Find the Power of K-Size Subarrays I](https://KTS-o7.github.io/blog/leetcode-potd/problem-3254-find-the-power-of-k-size-subarrays-i/)
 - [Problem 2461 Maximum Sum of Distinct Subarrays With Length K](https://KTS-o7.github.io/blog/leetcode-potd/problem-2461-maximum-sum-of-distinct-subarrays-with-length-k/)
-- [Problem 1574 Shortest Subarray to be Removed to Make Array Sorted](https://KTS-o7.github.io/blog/leetcode-potd/problem-1574-shortest-subarray-to-be-removed-to-make-array-sorted/)
-- [Problem 1652 Defuse the Bomb](https://KTS-o7.github.io/blog/leetcode-potd/problem-1652-defuse-the-bomb/)
 <!-- BLOG-POST-LIST:END -->
