@@ -33,9 +33,9 @@ Hi 👋, I'm KTS<br>🌱 I’m currently learning System Design, DSA and general
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem 1233 Remove Sub-Folders from the Filesystem](https://KTS-o7.github.io/blog/leetcode-potd/problem-1233-remove-sub-folders-from-the-filesystem/)
+- [Problem 3133 Minimum Array End](https://KTS-o7.github.io/blog/leetcode-potd/problem-3133-minimum-array-end/)
+- [Problem 2458 Height of Binary Tree After Subtree Removal Queries](https://KTS-o7.github.io/blog/leetcode-potd/problem-2458-height-of-binary-tree-after-subtree-removal-queries/)
+- [Problem 3097 Shortest Subarray With OR at Least K II](https://KTS-o7.github.io/blog/leetcode-potd/problem-3097-shortest-subarray-with-or-at-least-k-ii/)
 - [Problem 1277 Count Square Submatrices with All Ones](https://KTS-o7.github.io/blog/leetcode-potd/problem-1277-count-square-submatrices-with-all-ones/)
-- [Problem 2924 Find Champion II](https://KTS-o7.github.io/blog/leetcode-potd/problem-2924-find-champion-ii/)
-- [Problem 773 Sliding Puzzle](https://KTS-o7.github.io/blog/leetcode-potd/problem-773-sliding-puzzle/)
-- [Problem 3254 Find the Power of K-Size Subarrays I](https://KTS-o7.github.io/blog/leetcode-potd/problem-3254-find-the-power-of-k-size-subarrays-i/)
-- [Problem 2461 Maximum Sum of Distinct Subarrays With Length K](https://KTS-o7.github.io/blog/leetcode-potd/problem-2461-maximum-sum-of-distinct-subarrays-with-length-k/)
 <!-- BLOG-POST-LIST:END -->
