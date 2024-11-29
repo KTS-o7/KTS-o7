@@ -33,9 +33,9 @@ Hi 👋, I'm KTS<br>🌱 I’m currently learning System Design, DSA and general
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem 2641 Cousins in Binary Tree II](https://KTS-o7.github.io/blog/leetcode-potd/problem-2641-cousins-in-binary-tree-ii/)
+- [Problem 2406 Divide Intervals Into Minimum Number of Groups](https://KTS-o7.github.io/blog/leetcode-potd/problem-2406-divide-intervals-into-minimum-number-of-groups/)
+- [Problem 1957 Delete Characters to Make Fancy String](https://KTS-o7.github.io/blog/leetcode-potd/problem-1957-delete-characters-to-make-fancy-string/)
 - [Problem 1233 Remove Sub-Folders from the Filesystem](https://KTS-o7.github.io/blog/leetcode-potd/problem-1233-remove-sub-folders-from-the-filesystem/)
 - [Problem 3133 Minimum Array End](https://KTS-o7.github.io/blog/leetcode-potd/problem-3133-minimum-array-end/)
-- [Problem 2458 Height of Binary Tree After Subtree Removal Queries](https://KTS-o7.github.io/blog/leetcode-potd/problem-2458-height-of-binary-tree-after-subtree-removal-queries/)
-- [Problem 3097 Shortest Subarray With OR at Least K II](https://KTS-o7.github.io/blog/leetcode-potd/problem-3097-shortest-subarray-with-or-at-least-k-ii/)
-- [Problem 1277 Count Square Submatrices with All Ones](https://KTS-o7.github.io/blog/leetcode-potd/problem-1277-count-square-submatrices-with-all-ones/)
 <!-- BLOG-POST-LIST:END -->
