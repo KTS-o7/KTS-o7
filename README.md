@@ -33,9 +33,9 @@ Hi 👋, I'm KTS<br>🌱 I’m currently learning System Design, DSA and general
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem 3208 Alternating Groups II](https://KTS-o7.github.io/blog/leetcode-potd/problem-3208-alternating-groups-ii/)
+- [Problem 2516 Take K of Each Character From Left and Right](https://KTS-o7.github.io/blog/leetcode-potd/problem-2516-take-k-of-each-character-from-left-and-right/)
+- [Problem 3243 Shortest Distance After Road Addition Queries I](https://KTS-o7.github.io/blog/leetcode-potd/problem-3243-shortest-distance-after-road-addition-queries-i/)
 - [Problem 2641 Cousins in Binary Tree II](https://KTS-o7.github.io/blog/leetcode-potd/problem-2641-cousins-in-binary-tree-ii/)
 - [Problem 2406 Divide Intervals Into Minimum Number of Groups](https://KTS-o7.github.io/blog/leetcode-potd/problem-2406-divide-intervals-into-minimum-number-of-groups/)
-- [Problem 1957 Delete Characters to Make Fancy String](https://KTS-o7.github.io/blog/leetcode-potd/problem-1957-delete-characters-to-make-fancy-string/)
-- [Problem 1233 Remove Sub-Folders from the Filesystem](https://KTS-o7.github.io/blog/leetcode-potd/problem-1233-remove-sub-folders-from-the-filesystem/)
-- [Problem 3133 Minimum Array End](https://KTS-o7.github.io/blog/leetcode-potd/problem-3133-minimum-array-end/)
 <!-- BLOG-POST-LIST:END -->
