@@ -33,9 +33,9 @@ Hi 👋, I'm KTS<br>🌱 I’m currently learning System Design, DSA and general
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem 3291 Minimum Number of Valid Strings to Form Target I](https://KTS-o7.github.io/blog/leetcode-potd/problem-3291-minimum-number-of-valid-strings-to-form-target-i/)
+- [Problem 1346 Check If N and Its Double Exist](https://KTS-o7.github.io/blog/leetcode-potd/problem-1346-check-if-n-and-its-double-exist/)
 - [Problem 3208 Alternating Groups II](https://KTS-o7.github.io/blog/leetcode-potd/problem-3208-alternating-groups-ii/)
 - [Problem 2516 Take K of Each Character From Left and Right](https://KTS-o7.github.io/blog/leetcode-potd/problem-2516-take-k-of-each-character-from-left-and-right/)
 - [Problem 3243 Shortest Distance After Road Addition Queries I](https://KTS-o7.github.io/blog/leetcode-potd/problem-3243-shortest-distance-after-road-addition-queries-i/)
-- [Problem 2641 Cousins in Binary Tree II](https://KTS-o7.github.io/blog/leetcode-potd/problem-2641-cousins-in-binary-tree-ii/)
-- [Problem 2406 Divide Intervals Into Minimum Number of Groups](https://KTS-o7.github.io/blog/leetcode-potd/problem-2406-divide-intervals-into-minimum-number-of-groups/)
 <!-- BLOG-POST-LIST:END -->
