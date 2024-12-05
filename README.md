@@ -33,9 +33,9 @@ Hi 👋, I'm KTS<br>🌱 I’m currently learning System Design, DSA and general
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem 2601 Prime Subtraction Operation](https://KTS-o7.github.io/blog/leetcode-potd/problem-2601-prime-subtraction-operation/)
+- [Problem 2825 Make String a Subsequence Using Cyclic Increments](https://KTS-o7.github.io/blog/leetcode-potd/problem-2825-make-string-a-subsequence-using-cyclic-increments/)
 - [Problem 2563 Count the Number of Fair Pairs](https://KTS-o7.github.io/blog/leetcode-potd/problem-2563-count-the-number-of-fair-pairs/)
 - [Problem 2109 Adding Spaces to a String](https://KTS-o7.github.io/blog/leetcode-potd/problem-2109-adding-spaces-to-a-string/)
 - [Problem 48 Rotate Image](https://KTS-o7.github.io/blog/leetcode-potd/problem-48-rotate-image/)
-- [Problem 1014 Best Sightseeing Pair](https://KTS-o7.github.io/blog/leetcode-potd/problem-1014-best-sightseeing-pair/)
-- [Problem 1455 Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://KTS-o7.github.io/blog/leetcode-potd/problem-1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)
 <!-- BLOG-POST-LIST:END -->
