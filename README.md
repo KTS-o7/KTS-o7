@@ -33,9 +33,9 @@ Hi 👋, I'm KTS<br>🌱 I’m currently learning System Design, DSA and general
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem 2554 Maximum Number of Integers to Choose From a Range I](https://KTS-o7.github.io/blog/leetcode-potd/problem-2554-maximum-number-of-integers-to-choose-from-a-range-i/)
 - [Problem 2337 Move Pieces to Obtain a String](https://KTS-o7.github.io/blog/leetcode-potd/problem-2337-move-pieces-to-obtain-a-string/)
 - [Problem 2601 Prime Subtraction Operation](https://KTS-o7.github.io/blog/leetcode-potd/problem-2601-prime-subtraction-operation/)
 - [Problem 2825 Make String a Subsequence Using Cyclic Increments](https://KTS-o7.github.io/blog/leetcode-potd/problem-2825-make-string-a-subsequence-using-cyclic-increments/)
 - [Problem 2563 Count the Number of Fair Pairs](https://KTS-o7.github.io/blog/leetcode-potd/problem-2563-count-the-number-of-fair-pairs/)
-- [Problem 2109 Adding Spaces to a String](https://KTS-o7.github.io/blog/leetcode-potd/problem-2109-adding-spaces-to-a-string/)
 <!-- BLOG-POST-LIST:END -->
