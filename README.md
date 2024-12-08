@@ -33,9 +33,9 @@ Hi 👋, I'm KTS<br>🌱 I’m currently learning System Design, DSA and general
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Problem 1255 Maximum Score Words Formed by Letters](https://KTS-o7.github.io/blog/posts/extraques/problem-1255-maximum-score-words-formed-by-letters/)
-- [Problem 1074 Number of Submatrices That Sum to Target](https://KTS-o7.github.io/blog/posts/extraques/problem-1074-number-of-submatrices-that-sum-to-target/)
-- [Problem 2597 The Number of Beautiful Subsets](https://KTS-o7.github.io/blog/posts/extraques/problem-2597-the-number-of-beautiful-subsets/)
-- [Problem 310 Minimum Height Trees](https://KTS-o7.github.io/blog/posts/extraques/problem-310-minimum-height-trees/)
-- [Problem 3207 Maximum Points After Enemy Battles](https://KTS-o7.github.io/blog/posts/leetcode-contest/problem-3207-maximum-points-after-enemy-battles/)
+- [Problem 3011 Find if Array Can Be Sorted](https://KTS-o7.github.io/blog/posts/extraques/problem-3011-find-if-array-can-be-sorted/)
+- [Problem 2275 Largest Combination With Bitwise AND Greater Than Zero](https://KTS-o7.github.io/blog/posts/extraques/problem-2275-largest-combination-with-bitwise-and-greater-than-zero/)
+- [Problem 1829 Maximum XOR for Each Query](https://KTS-o7.github.io/blog/posts/extraques/problem-1829-maximum-xor-for-each-query/)
+- [Problem 2070 Most Beautiful Item for Each Query](https://KTS-o7.github.io/blog/posts/extraques/problem-2070-most-beautiful-item-for-each-query/)
+- [Problem 2064 Minimized Maximum of Products Distributed to Any Store](https://KTS-o7.github.io/blog/leetcode-potd/problem-2064-minimized-maximum-of-products-distributed-to-any-store/)
 <!-- BLOG-POST-LIST:END -->
