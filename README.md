@@ -33,9 +33,9 @@ Hi 👋, I'm KTS<br>🌱 I’m currently learning System Design, DSA and general
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem 1404 Number of Steps to Reduce a Number in Binary Representation to One](https://KTS-o7.github.io/blog/posts/extraques/problem-1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)
+- [Problem 1942 The Number of the Smallest Unoccupied Chair](https://KTS-o7.github.io/blog/posts/extraques/problem-1942-the-number-of-the-smallest-unoccupied-chair/)
+- [Problem 2463 Minimum Total Distance Traveled](https://KTS-o7.github.io/blog/posts/extraques/problem-2463-minimum-total-distance-traveled/)
+- [Problem 2684 Maximum Number of Moves in a Grid](https://KTS-o7.github.io/blog/posts/extraques/problem-2684-maximum-number-of-moves-in-a-grid/)
 - [Problem 3163 String Compression III](https://KTS-o7.github.io/blog/posts/extraques/problem-3163-string-compression-iii/)
-- [Problem 2416 Sum of Prefix Scores of Strings](https://KTS-o7.github.io/blog/posts/extraques/problem-2416-sum-of-prefix-scores-of-strings/)
-- [Problem 2981 Find Longest Special Substring That Occurs Thrice I](https://KTS-o7.github.io/blog/leetcode-potd/problem-2981-find-longest-special-substring-that-occurs-thrice-i/)
-- [Problem 3152 Special Array II](https://KTS-o7.github.io/blog/leetcode-potd/problem-3152-special-array-ii/)
-- [Problem 3011 Find if Array Can Be Sorted](https://KTS-o7.github.io/blog/posts/extraques/problem-3011-find-if-array-can-be-sorted/)
 <!-- BLOG-POST-LIST:END -->
