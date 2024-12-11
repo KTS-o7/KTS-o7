@@ -33,9 +33,9 @@ Hi 👋, I'm KTS<br>🌱 I’m currently learning System Design, DSA and general
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem 3163 String Compression III](https://KTS-o7.github.io/blog/posts/extraques/problem-3163-string-compression-iii/)
+- [Problem 2416 Sum of Prefix Scores of Strings](https://KTS-o7.github.io/blog/posts/extraques/problem-2416-sum-of-prefix-scores-of-strings/)
+- [Problem 2981 Find Longest Special Substring That Occurs Thrice I](https://KTS-o7.github.io/blog/leetcode-potd/problem-2981-find-longest-special-substring-that-occurs-thrice-i/)
 - [Problem 3152 Special Array II](https://KTS-o7.github.io/blog/leetcode-potd/problem-3152-special-array-ii/)
 - [Problem 3011 Find if Array Can Be Sorted](https://KTS-o7.github.io/blog/posts/extraques/problem-3011-find-if-array-can-be-sorted/)
-- [Problem 2275 Largest Combination With Bitwise AND Greater Than Zero](https://KTS-o7.github.io/blog/posts/extraques/problem-2275-largest-combination-with-bitwise-and-greater-than-zero/)
-- [Problem 1829 Maximum XOR for Each Query](https://KTS-o7.github.io/blog/posts/extraques/problem-1829-maximum-xor-for-each-query/)
-- [Problem 2070 Most Beautiful Item for Each Query](https://KTS-o7.github.io/blog/posts/extraques/problem-2070-most-beautiful-item-for-each-query/)
 <!-- BLOG-POST-LIST:END -->
