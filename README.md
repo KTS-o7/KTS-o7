@@ -61,11 +61,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Problem 1404 Number of Steps to Reduce a Number in Binary Representation to One](https://KTS-o7.github.io/blog/posts/extraques/problem-1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)
-- [Problem 1942 The Number of the Smallest Unoccupied Chair](https://KTS-o7.github.io/blog/posts/extraques/problem-1942-the-number-of-the-smallest-unoccupied-chair/)
-- [Problem 2463 Minimum Total Distance Traveled](https://KTS-o7.github.io/blog/posts/extraques/problem-2463-minimum-total-distance-traveled/)
-- [Problem 2684 Maximum Number of Moves in a Grid](https://KTS-o7.github.io/blog/posts/extraques/problem-2684-maximum-number-of-moves-in-a-grid/)
-- [Problem 3163 String Compression III](https://KTS-o7.github.io/blog/posts/extraques/problem-3163-string-compression-iii/)
+- [Problem 260 Single Number III](https://KTS-o7.github.io/blog/posts/extraques/problem-260-single-number-iii/)
+- [Problem 974 Subarray Sums Divisible by K](https://KTS-o7.github.io/blog/posts/extraques/problem-974-subarray-sums-divisible-by-k/)
+- [Problem 273 Integer to English Words](https://KTS-o7.github.io/blog/posts/extraques/problem-273-integer-to-english-words/)
+- [Problem 80 Remove Duplicates from Sorted Array II](https://KTS-o7.github.io/blog/posts/extraques/problem-80-remove-duplicates-from-sorted-array-ii/)
+- [Problem 2134 Minimum Swaps to Group All 1s Together II](https://KTS-o7.github.io/blog/posts/extraques/problem-2134-minimum-swaps-to-group-all-1s-together-ii/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
