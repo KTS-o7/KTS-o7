@@ -61,11 +61,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Problem 52 N-Queens II](https://KTS-o7.github.io/blog/posts/extraques/problem-52-n-queens-ii/)
+- [Problem 2392 Build a Matrix With Conditions](https://KTS-o7.github.io/blog/posts/extraques/problem-2392-build-a-matrix-with-conditions/)
+- [Problem 1937 Maximum Number of Points with Cost](https://KTS-o7.github.io/blog/posts/extraques/problem-1937-maximum-number-of-points-with-cost/)
+- [Problem 2952 Minimum Number of Coins to be Added](https://KTS-o7.github.io/blog/posts/extraques/problem-2952-minimum-number-of-coins-to-be-added/)
 - [Problem 260 Single Number III](https://KTS-o7.github.io/blog/posts/extraques/problem-260-single-number-iii/)
-- [Problem 974 Subarray Sums Divisible by K](https://KTS-o7.github.io/blog/posts/extraques/problem-974-subarray-sums-divisible-by-k/)
-- [Problem 273 Integer to English Words](https://KTS-o7.github.io/blog/posts/extraques/problem-273-integer-to-english-words/)
-- [Problem 80 Remove Duplicates from Sorted Array II](https://KTS-o7.github.io/blog/posts/extraques/problem-80-remove-duplicates-from-sorted-array-ii/)
-- [Problem 2134 Minimum Swaps to Group All 1s Together II](https://KTS-o7.github.io/blog/posts/extraques/problem-2134-minimum-swaps-to-group-all-1s-together-ii/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
