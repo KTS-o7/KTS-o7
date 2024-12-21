@@ -61,11 +61,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Problem 52 N-Queens II](https://KTS-o7.github.io/blog/posts/extraques/problem-52-n-queens-ii/)
-- [Problem 2392 Build a Matrix With Conditions](https://KTS-o7.github.io/blog/posts/extraques/problem-2392-build-a-matrix-with-conditions/)
-- [Problem 1937 Maximum Number of Points with Cost](https://KTS-o7.github.io/blog/posts/extraques/problem-1937-maximum-number-of-points-with-cost/)
-- [Problem 2952 Minimum Number of Coins to be Added](https://KTS-o7.github.io/blog/posts/extraques/problem-2952-minimum-number-of-coins-to-be-added/)
-- [Problem 260 Single Number III](https://KTS-o7.github.io/blog/posts/extraques/problem-260-single-number-iii/)
+- [Problem 1545 Find Kth Bit in Nth Binary String](https://KTS-o7.github.io/blog/posts/extraques/problem-1545-find-kth-bit-in-nth-binary-string/)
+- [Problem 921 Minimum Add to Make Parentheses Valid](https://KTS-o7.github.io/blog/posts/extraques/problem-921-minimum-add-to-make-parentheses-valid-copy/)
+- [Problem 921 Minimum Add to Make Parentheses Valid](https://KTS-o7.github.io/blog/posts/extraques/problem-921-minimum-add-to-make-parentheses-valid/)
+- [Problem 796 Rotate String](https://KTS-o7.github.io/blog/posts/extraques/problem-796-rotate-string/)
+- [Problem 1106 Parsing A Boolean Expression](https://KTS-o7.github.io/blog/posts/extraques/problem-1106-parsing-a-boolean-expression/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
