@@ -61,11 +61,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Problem 1371 Find the Longest Substring Containing Vowels in Even Counts](https://KTS-o7.github.io/blog/posts/extraques/problem-1371-find-the-longest-substring-containing-vowels-in-even-counts/)
+- [Problem 2045 Second Minimum Time to Reach Destination](https://KTS-o7.github.io/blog/posts/extraques/problem-2045-second-minimum-time-to-reach-destination/)
+- [Problem 3185 Count Pairs That Form a Complete Day II](https://KTS-o7.github.io/blog/posts/extraques/problem-3185-count-pairs-that-form-a-complete-day-ii/)
 - [Problem 1545 Find Kth Bit in Nth Binary String](https://KTS-o7.github.io/blog/posts/extraques/problem-1545-find-kth-bit-in-nth-binary-string/)
 - [Problem 921 Minimum Add to Make Parentheses Valid](https://KTS-o7.github.io/blog/posts/extraques/problem-921-minimum-add-to-make-parentheses-valid-copy/)
-- [Problem 921 Minimum Add to Make Parentheses Valid](https://KTS-o7.github.io/blog/posts/extraques/problem-921-minimum-add-to-make-parentheses-valid/)
-- [Problem 796 Rotate String](https://KTS-o7.github.io/blog/posts/extraques/problem-796-rotate-string/)
-- [Problem 1106 Parsing A Boolean Expression](https://KTS-o7.github.io/blog/posts/extraques/problem-1106-parsing-a-boolean-expression/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
