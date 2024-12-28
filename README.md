@@ -61,11 +61,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Problem 241 Different Ways to Add Parentheses](https://KTS-o7.github.io/blog/posts/extraques/problem-241-different-ways-to-add-parentheses/)
+- [Problem 1105 Filling Bookcase Shelves](https://KTS-o7.github.io/blog/posts/extraques/problem-1105-filling-bookcase-shelves/)
+- [Problem 318 Maximum Product of Word Lengths](https://KTS-o7.github.io/blog/posts/extraques/problem-318-maximum-product-of-word-lengths/)
+- [Problem 179 Largest Number](https://KTS-o7.github.io/blog/posts/extraques/problem-179-largest-number/)
 - [Problem 1371 Find the Longest Substring Containing Vowels in Even Counts](https://KTS-o7.github.io/blog/posts/extraques/problem-1371-find-the-longest-substring-containing-vowels-in-even-counts/)
-- [Problem 2045 Second Minimum Time to Reach Destination](https://KTS-o7.github.io/blog/posts/extraques/problem-2045-second-minimum-time-to-reach-destination/)
-- [Problem 3185 Count Pairs That Form a Complete Day II](https://KTS-o7.github.io/blog/posts/extraques/problem-3185-count-pairs-that-form-a-complete-day-ii/)
-- [Problem 1545 Find Kth Bit in Nth Binary String](https://KTS-o7.github.io/blog/posts/extraques/problem-1545-find-kth-bit-in-nth-binary-string/)
-- [Problem 921 Minimum Add to Make Parentheses Valid](https://KTS-o7.github.io/blog/posts/extraques/problem-921-minimum-add-to-make-parentheses-valid-copy/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
