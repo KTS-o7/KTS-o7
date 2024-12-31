@@ -61,11 +61,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Problem 241 Different Ways to Add Parentheses](https://KTS-o7.github.io/blog/posts/extraques/problem-241-different-ways-to-add-parentheses/)
-- [Problem 1105 Filling Bookcase Shelves](https://KTS-o7.github.io/blog/posts/extraques/problem-1105-filling-bookcase-shelves/)
-- [Problem 318 Maximum Product of Word Lengths](https://KTS-o7.github.io/blog/posts/extraques/problem-318-maximum-product-of-word-lengths/)
-- [Problem 179 Largest Number](https://KTS-o7.github.io/blog/posts/extraques/problem-179-largest-number/)
-- [Problem 1371 Find the Longest Substring Containing Vowels in Even Counts](https://KTS-o7.github.io/blog/posts/extraques/problem-1371-find-the-longest-substring-containing-vowels-in-even-counts/)
+- [Problem 440 K-th Smallest in Lexicographical Order](https://KTS-o7.github.io/blog/posts/extraques/problem-440-k-th-smallest-in-lexicographical-order/)
+- [Problem 1653 Minimum Deletions to Make String Balanced](https://KTS-o7.github.io/blog/posts/extraques/problem-1653-minimum-deletions-to-make-string-balanced/)
+- [Problem 386 Lexicographical Numbers](https://KTS-o7.github.io/blog/posts/extraques/problem-386-lexicographical-numbers/)
+- [Problem 815 Bus Routes](https://KTS-o7.github.io/blog/posts/extraques/problem-815-bus-routes/)
+- [Problem 214 Shortest Palindrome](https://KTS-o7.github.io/blog/posts/extraques/problem-214-shortest-palindrome/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
