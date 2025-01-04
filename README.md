@@ -61,11 +61,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Problem 2707 Extra Characters in a String](https://KTS-o7.github.io/blog/posts/extraques/problem-2707-extra-characters-in-a-string/)
+- [Problem 1608 Special Array With X Elements Greater Than or Equal X](https://KTS-o7.github.io/blog/posts/extraques/problem-1608-special-array-with-x-elements-greater-than-or-equal-x/)
+- [Problem 539 Minimum Time Difference](https://KTS-o7.github.io/blog/posts/extraques/problem-539-minimum-time-difference/)
 - [Problem 440 K-th Smallest in Lexicographical Order](https://KTS-o7.github.io/blog/posts/extraques/problem-440-k-th-smallest-in-lexicographical-order/)
 - [Problem 1653 Minimum Deletions to Make String Balanced](https://KTS-o7.github.io/blog/posts/extraques/problem-1653-minimum-deletions-to-make-string-balanced/)
-- [Problem 386 Lexicographical Numbers](https://KTS-o7.github.io/blog/posts/extraques/problem-386-lexicographical-numbers/)
-- [Problem 815 Bus Routes](https://KTS-o7.github.io/blog/posts/extraques/problem-815-bus-routes/)
-- [Problem 214 Shortest Palindrome](https://KTS-o7.github.io/blog/posts/extraques/problem-214-shortest-palindrome/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
