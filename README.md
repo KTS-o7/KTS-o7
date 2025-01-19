@@ -61,11 +61,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Problem 3043 Find the Length of the Longest Common Prefix](https://KTS-o7.github.io/blog/posts/extraques/problem-3043-find-the-length-of-the-longest-common-prefix/)
-- [Problem 885 Spiral Matrix III](https://KTS-o7.github.io/blog/posts/extraques/problem-885-spiral-matrix-iii/)
-- [Problem 208 Implement Trie &lpar;Prefix Tree&rpar;](https://KTS-o7.github.io/blog/posts/extraques/problem-208-implement-trie-prefix-tree/)
-- [Problem 2707 Extra Characters in a String](https://KTS-o7.github.io/blog/posts/extraques/problem-2707-extra-characters-in-a-string/)
-- [Problem 1608 Special Array With X Elements Greater Than or Equal X](https://KTS-o7.github.io/blog/posts/extraques/problem-1608-special-array-with-x-elements-greater-than-or-equal-x/)
+- [Problem 2696 Minimum String Length After Removing Substrings](https://KTS-o7.github.io/blog/posts/extraques/problem-2696-minimum-string-length-after-removing-substrings/)
+- [Problem 2938 Separate Black and White Balls](https://KTS-o7.github.io/blog/posts/extraques/problem-2938-separate-black-and-white-balls/)
+- [Problem 1963 Minimum Number of Swaps to Make the String Balanced](https://KTS-o7.github.io/blog/posts/extraques/problem-1963-minimum-number-of-swaps-to-make-the-string-balanced/)
+- [Problem 670 Maximum Swap](https://KTS-o7.github.io/blog/posts/extraques/problem-670-maximum-swap/)
+- [Problem 39 Combination Sum](https://KTS-o7.github.io/blog/posts/extraques/problem-39-combination-sum/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
