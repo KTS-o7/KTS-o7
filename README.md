@@ -61,11 +61,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Problem 2696 Minimum String Length After Removing Substrings](https://KTS-o7.github.io/blog/posts/extraques/problem-2696-minimum-string-length-after-removing-substrings/)
-- [Problem 2938 Separate Black and White Balls](https://KTS-o7.github.io/blog/posts/extraques/problem-2938-separate-black-and-white-balls/)
-- [Problem 1963 Minimum Number of Swaps to Make the String Balanced](https://KTS-o7.github.io/blog/posts/extraques/problem-1963-minimum-number-of-swaps-to-make-the-string-balanced/)
-- [Problem 670 Maximum Swap](https://KTS-o7.github.io/blog/posts/extraques/problem-670-maximum-swap/)
-- [Problem 39 Combination Sum](https://KTS-o7.github.io/blog/posts/extraques/problem-39-combination-sum/)
+- [Problem 632 Smallest Range Covering Elements from K Lists](https://KTS-o7.github.io/blog/posts/extraques/problem-632-smallest-range-covering-elements-from-k-lists/)
+- [Problem 567 Permutation in String](https://KTS-o7.github.io/blog/posts/extraques/problem-567-permutation-in-string/)
+- [Problem 2530 Maximal Score After Applying K Operations](https://KTS-o7.github.io/blog/posts/extraques/problem-2530-maximal-score-after-applying-k-operations/)
+- [Problem 1813 Sentence Similarity III](https://KTS-o7.github.io/blog/posts/extraques/problem-1813-sentence-similarity-iii/)
+- [Problem 2914 Minimum Number of Changes to Make Binary String Beautiful](https://KTS-o7.github.io/blog/posts/extraques/problem-2914-minimum-number-of-changes-to-make-binary-string-beautiful/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
