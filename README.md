@@ -61,11 +61,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Problem 632 Smallest Range Covering Elements from K Lists](https://KTS-o7.github.io/blog/posts/extraques/problem-632-smallest-range-covering-elements-from-k-lists/)
-- [Problem 567 Permutation in String](https://KTS-o7.github.io/blog/posts/extraques/problem-567-permutation-in-string/)
-- [Problem 2530 Maximal Score After Applying K Operations](https://KTS-o7.github.io/blog/posts/extraques/problem-2530-maximal-score-after-applying-k-operations/)
-- [Problem 1813 Sentence Similarity III](https://KTS-o7.github.io/blog/posts/extraques/problem-1813-sentence-similarity-iii/)
-- [Problem 2914 Minimum Number of Changes to Make Binary String Beautiful](https://KTS-o7.github.io/blog/posts/extraques/problem-2914-minimum-number-of-changes-to-make-binary-string-beautiful/)
+- [Problem 641 Design Circular Deque](https://KTS-o7.github.io/blog/posts/extraques/problem-641-design-circular-deque/)
+- [Problem 1497 Check If Array Pairs Are Divisible by k](https://KTS-o7.github.io/blog/posts/extraques/problem-1497-check-if-array-pairs-are-divisible-by-k/)
+- [Problem 1671 Minimum Number of Removals to Make Mountain Array](https://KTS-o7.github.io/blog/posts/extraques/problem-1671-minimum-number-of-removals-to-make-mountain-array/)
+- [Problem 1331 Rank Transform of an Array](https://KTS-o7.github.io/blog/posts/extraques/problem-1331-rank-transform-of-an-array/)
+- [Problem 1590 Make Sum Divisible by P](https://KTS-o7.github.io/blog/posts/extraques/problem-1590-make-sum-divisible-by-p/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
