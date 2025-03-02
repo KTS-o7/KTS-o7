@@ -61,11 +61,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Problem 2570 Merge Two 2D Arrays by Summing Values](https://KTS-o7.github.io/blog/leetcode-potd/problem-2570-merge-two-2d-arrays-by-summing-values/)
 - [Problem 641 Design Circular Deque](https://KTS-o7.github.io/blog/posts/extraques/problem-641-design-circular-deque/)
 - [Problem 1497 Check If Array Pairs Are Divisible by k](https://KTS-o7.github.io/blog/posts/extraques/problem-1497-check-if-array-pairs-are-divisible-by-k/)
 - [Problem 1671 Minimum Number of Removals to Make Mountain Array](https://KTS-o7.github.io/blog/posts/extraques/problem-1671-minimum-number-of-removals-to-make-mountain-array/)
 - [Problem 1331 Rank Transform of an Array](https://KTS-o7.github.io/blog/posts/extraques/problem-1331-rank-transform-of-an-array/)
-- [Problem 1590 Make Sum Divisible by P](https://KTS-o7.github.io/blog/posts/extraques/problem-1590-make-sum-divisible-by-p/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
