@@ -1,77 +1,89 @@
 <div align="center">
-  <h1>👋 Hi, I'm Krishnatejaswi S </h1>
-  <p><em>Passionate about System Design, DSA, and Software Development</em></p>
+  <h1>Krishnatejaswi S</h1>
+  <p>AI + Fullstack Engineer · <a href="https://onfinance.ai">OnFinance.ai</a> · Bangalore</p>
+  <p>
+    <a href="https://linkedin.com/in/krishnatejaswi-shenthar"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
+    <a href="https://krishnatejaswi-s.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
+    <a href="https://twitter.com/kts_o7"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" /></a>
+    <a href="mailto:shentharkrishnatejaswi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  </p>
 </div>
 
-## 🚀 About Me
-- 🌱 Currently deepening my knowledge in System Design and Generative AI
-- 💡 Specialized in Generative AI and Python Development
-- 📧 Reach me at: shentharkrishnatejaswi@gmail.com
+---
 
-## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnatejaswi-shenthar)
+## About
 
-## 💻 Technical Expertise
+I build systems at the intersection of AI infrastructure and full-stack engineering. Currently at **OnFinance.ai**, working on AI-powered financial tooling.
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+- BE in Computer Science @ **RV College of Engineering, Bangalore**
+- Open source contributor to high-performance Go systems
+- Interested in distributed systems, LLM infrastructure, and developer tooling
 
-### Data Science & ML
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+---
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+## Open Source
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+### [maximhq/bifrost](https://github.com/maximhq/bifrost) — AI Gateway (Go)
+> Enterprise AI gateway — ~11µs overhead at 5,000 RPS, 20+ LLM providers
 
-### Hardware
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+| PR | Description |
+|----|-------------|
+| [#2427](https://github.com/maximhq/bifrost/pull/2427) | Fixed Bedrock streaming not retrying stale HTTP/2 connections despite `max_retries` config — traced `*net.OpError` / `io.ErrUnexpectedEOF` misclassification as `IsBifrostError:true` across 4 code paths, added `isStreamTransportError` helper and 3 regression tests |
+| [#1830](https://github.com/maximhq/bifrost/pull/1830) | Fixed parallel tool call stream delta accumulation — streaming responses with concurrent tool calls were dropping deltas |
 
-## 📊 GitHub Analytics
+---
+
+## Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [permission-mongo](https://github.com/KTS-o7/permission-mongo) | RBAC-powered BaaS for MongoDB — fine-grained permissions, document versioning, full observability | Go |
+| [better_bing_image_downloader](https://github.com/KTS-o7/better_bing_image_downloader) | Python library for bulk image downloads from Bing · **41 stars** | Python |
+| [snapshell](https://github.com/KTS-o7/snapshell) | CLI tool to learn Linux commands interactively | Python |
+| [toy-compiler](https://github.com/KTS-o7/toy-compiler) | Compiler implementation in Yacc/C | Yacc, C |
+
+---
+
+## Stack
+
+**Languages**
+
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+
+**Frameworks & Tools**
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+
+---
+
+## GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KTS-o7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KTS-o7&theme=github_dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KTS-o7&theme=github_dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🏆 Achievements
-<details>
-<summary>Click to expand</summary>
+---
 
-### Hacktoberfest
-[![Holopin badges](https://holopin.me/ktso7)](https://holopin.io/@ktso7)
+## Latest Posts
 
-### GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KTS-o7&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
-### LeetCode
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=KTS-o7" alt="LeetCode Badges"/>
-</details>
-
-## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Problem 790 Domino and Tromino Tiling](https://KTS-o7.github.io/blog/leetcode-potd/problem-790-domino-and-tromino-tiling/)
 - [Problem 3396 Minimum Number of Operations to Make Elements in Array Distinct](https://KTS-o7.github.io/blog/leetcode-potd/problem-3396-minimum-number-of-operations-to-make-elements-in-array-distinct/)
 - [Problem 2570 Merge Two 2D Arrays by Summing Values](https://KTS-o7.github.io/blog/leetcode-potd/problem-2570-merge-two-2d-arrays-by-summing-values/)
-- [Problem 641 Design Circular Deque](https://KTS-o7.github.io/blog/posts/extraques/problem-641-design-circular-deque/)
-- [Problem 1497 Check If Array Pairs Are Divisible by k](https://KTS-o7.github.io/blog/posts/extraques/problem-1497-check-if-array-pairs-are-divisible-by-k/)
 <!-- BLOG-POST-LIST:END -->
-
-<div align="center">
-  
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=KTS-o7&icon=6&color=2)](https://visitcount.itsvg.in)
-</div>
