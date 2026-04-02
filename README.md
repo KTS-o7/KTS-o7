@@ -84,4 +84,6 @@ I build systems at the intersection of AI infrastructure and full-stack engineer
 - [Problem 790 Domino and Tromino Tiling](https://KTS-o7.github.io/blog/leetcode-potd/problem-790-domino-and-tromino-tiling/)
 - [Problem 3396 Minimum Number of Operations to Make Elements in Array Distinct](https://KTS-o7.github.io/blog/leetcode-potd/problem-3396-minimum-number-of-operations-to-make-elements-in-array-distinct/)
 - [Problem 2570 Merge Two 2D Arrays by Summing Values](https://KTS-o7.github.io/blog/leetcode-potd/problem-2570-merge-two-2d-arrays-by-summing-values/)
+- [Problem 641 Design Circular Deque](https://KTS-o7.github.io/blog/posts/extraques/problem-641-design-circular-deque/)
+- [Problem 1497 Check If Array Pairs Are Divisible by k](https://KTS-o7.github.io/blog/posts/extraques/problem-1497-check-if-array-pairs-are-divisible-by-k/)
 <!-- BLOG-POST-LIST:END -->
