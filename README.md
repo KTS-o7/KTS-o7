@@ -19,6 +19,7 @@ Currently at **OnFinance.ai** building **ComplianceOS** — a compliance automat
 
 - BE in Computer Science @ **RV College of Engineering, Bangalore**
 - Contributor to [maximhq/bifrost](https://github.com/maximhq/bifrost) (3.4k★) — fixed streaming correctness bugs in the AWS Bedrock provider
+- Working across the LLM stack: agentic workflows (LangGraph), RAG pipelines (ChromaDB, Ollama), multi-model evaluation, TTS, image/video generation
 - Interested in distributed systems, LLM infrastructure, and developer tooling
 
 ---
@@ -39,7 +40,7 @@ Currently at **OnFinance.ai** building **ComplianceOS** — a compliance automat
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [faceless-gen](https://github.com/KTS-o7/faceless-gen) | Local-only AI video studio — research doc in, MP4 out. 5-step editorial wizard (angles → story → scenes → music → generate). Stickman style via ComfyUI + Wan 2.2 I2V. 218 tests passing. | ![Python](https://img.shields.io/badge/Python-3670A0.svg?style=flat-square&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=flat-square&logo=fastapi) |
-| [graph-rca](https://github.com/KTS-o7/graph-rca) | Log-to-resolution RAG over 200 annotated production incidents — LLM builds causal DAGs, ChromaDB retrieves runbook context, 3-model judge ensemble validates output quality | ![Python](https://img.shields.io/badge/Python-3670A0.svg?style=flat-square&logo=python&logoColor=ffdd54) |
+| [graph-rca](https://github.com/KTS-o7/graph-rca) | Log-to-resolution RAG over 200 annotated real-world incidents — LLM builds causal DAGs, ChromaDB (HNSW) retrieves runbook context, output quality validated by a 3-model judge ensemble (Qwen3:32b, GPT-4o-mini, Llama-3.1-70B) across 9 reproducible experiment scripts; GPU-accelerated, includes React frontend | ![Python](https://img.shields.io/badge/Python-3670A0.svg?style=flat-square&logo=python&logoColor=ffdd54) |
 | [permission-mongo](https://github.com/KTS-o7/permission-mongo) | RBAC-powered BaaS for MongoDB targeting 50K+ QPS — AST-caching policy compiler, lock-free router, fasthttp, Prometheus + Grafana dashboard, Python SDK | ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) |
 | [better_bing_image_downloader](https://github.com/KTS-o7/better_bing_image_downloader) | Maintained Python library · 18K+ PyPI downloads · 41★ · v3.0.0 fixed thread-safety, atomic writes, MD5 dedup; test suite grew 0 → 41 tests | ![Python](https://img.shields.io/badge/Python-3670A0.svg?style=flat-square&logo=python&logoColor=ffdd54) |
 | [snapshell](https://github.com/KTS-o7/snapshell) | CLI tool to learn Linux commands interactively | ![Python](https://img.shields.io/badge/Python-3670A0.svg?style=flat-square&logo=python&logoColor=ffdd54) |
@@ -57,12 +58,20 @@ Currently at **OnFinance.ai** building **ComplianceOS** — a compliance automat
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Backend & AI/ML**
+**Backend & Messaging**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**LLM & AI Tooling**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-5A5A5A.svg?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000.svg?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6719.svg?style=for-the-badge&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white)
 
 **Infra & Observability**
 
