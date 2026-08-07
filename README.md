@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Krishnatejaswi S</h1>
-  <p>Backend · Distributed Systems · LLM Tooling · <a href="https://onfinance.ai">OnFinance.ai</a> · Bangalore</p>
+  <p>AI Engineer · Production LLM Systems · Agentic Workflows · Future Standard · Bangalore</p>
   <p>
     <a href="https://linkedin.com/in/krishnatejaswi-shenthar"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://portfolio.shenthar.me"><img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -13,14 +13,16 @@
 
 ## About
 
-I build backend systems that stay fast, observable, and boring in production — reliable APIs, distributed workflows, and pragmatic LLM tooling (RAG, evals, orchestration).
+I build production AI systems end-to-end — from database to infra to deployed LLM pipelines. My focus is agentic systems that hold up in production: memory architectures, RAG over hard domains, evals, and orchestration.
 
-Currently at **OnFinance.ai** building **ComplianceOS** — a compliance automation platform for the BFSI sector, processing 100M+ tokens/month of SEBI, RBI, and IRDAI regulatory data.
+Currently **Analyst — AI & Agent Systems** at **Future Standard**, designing agentic memory architectures and building agent systems for operations and process intelligence — orchestration (LangGraph/LiteLLM), backend APIs, evaluation pipelines, and production deployment.
 
-- BE in Computer Science @ **RV College of Engineering, Bangalore**
+Previously at **OnFinance AI**, where I built **ComplianceOS** end-to-end (DB → backend → cloud → LLM pipelines) for BFSI compliance automation — production RAG over financial regulations with versioned embeddings and citation grounding, LangGraph + LiteLLM agentic workflows processing **1B+ tokens/month**, cutting compliance effort by 1,500+ hours/year. Ex-**RingCentral** (SDE intern — Angular → React modernization, 3x faster load times, 95% test coverage).
+
+- BE in Computer Science @ **RV College of Engineering, Bangalore** · former President, Coding Club RVCE
 - Contributor to [maximhq/bifrost](https://github.com/maximhq/bifrost) (3.4k★) — fixed streaming correctness bugs in the AWS Bedrock provider
 - Working across the LLM stack: agentic workflows (LangGraph), RAG pipelines (ChromaDB, Ollama), multi-model evaluation, TTS, image/video generation
-- Interested in distributed systems, LLM infrastructure, and developer tooling
+- Interested in agent memory, LLM infrastructure, distributed systems, and developer tooling
 
 ---
 
